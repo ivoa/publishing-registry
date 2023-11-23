@@ -17,6 +17,14 @@ deployers.
 In a first step, we collect the server code in use at the various
 places.   Let's see what that yields.
 
+Pointers to out-of-repo resources:
+
+* The CDS uses pyoai_
+* CADC has a java-based, containerable publishing registry; see
+  https://github.com/opencadc/reg/
+
+.. pyoai: https://pypi.org/project/pyoai/
+
 The `generation of VOResource records`_ is explicitly out of scope for
 this project; this is far too tightly linked to each data centre's
 representation of its resources' metadata.
