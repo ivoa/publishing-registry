@@ -23,7 +23,7 @@ Pointers to out-of-repo resources:
 * CADC has a java-based, containerable publishing registry; see
   https://github.com/opencadc/reg/
 
-.. pyoai: https://pypi.org/project/pyoai/
+.. _pyoai: https://pypi.org/project/pyoai/
 
 The `generation of VOResource records`_ is explicitly out of scope for
 this project; this is far too tightly linked to each data centre's
