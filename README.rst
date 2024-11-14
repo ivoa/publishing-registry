@@ -19,10 +19,13 @@ places.   Let's see what that yields.
 
 Pointers to out-of-repo resources:
 
+* `NOIRLab has`_ a publishing registry implementation in python that
+  looks as if it could be rather easily adopted by third parties.
 * The CDS uses pyoai_
 * CADC has a java-based, containerable publishing registry; see
   https://github.com/opencadc/reg/
 
+.. _NOIRLab has: https://gitlab.com/nsf-noirlab/csdc/vo-services/noirlab-vo-registry
 .. _pyoai: https://pypi.org/project/pyoai/
 
 The `generation of VOResource records`_ is explicitly out of scope for
